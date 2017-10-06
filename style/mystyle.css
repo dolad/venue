@@ -1,0 +1,32 @@
+ body{
+                background-image: url(../images/admin.jpg);
+                background-size: cover;
+            }
+            nav.navbar{
+                background: #000000;
+                border: none;
+                border-radius: 0;
+            }
+            div.admin{
+                margin-top: 40px;
+            }
+            label,th{
+                color: #88A45A;
+                font-size: 16px;
+            }
+            .admin-logo{
+                border-radius: 80px;
+            }
+            .ad{
+                margin-bottom: 30px;
+            }
+            .ad h1{
+                margin-left: 7%;
+                color: #f1f1f1;
+            }
+            table.table thead th{
+                background:#1F1715;
+            }
+            table.table{
+                background: #ccc;
+            }
